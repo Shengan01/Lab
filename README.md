@@ -1,0 +1,1 @@
+Repository for files created either during my classes in "Basics of Artificial Intelligence in Python" or outside of it but related to.
